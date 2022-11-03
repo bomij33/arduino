@@ -1,4 +1,5 @@
 # arduino Smart Farm
+아두이노를 이용한 스마트 팜 만들기
 <br><br>
 
 ## 1.mblock 설치
@@ -8,7 +9,11 @@
 
 <br><br>
 
-## 2.mnist code
+## 2.아두이노 사이트
+[https://arduino.cc/en/software/](https://www.arduino.cc/en/software)
+<br>
+
+
 - mnist 학습  #1 : [mnist.ipynb](./deep_learning/mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/bomij33/ggmt/blob/main/deep_learning/mnist.ipynb)
 - mnist 평가  #2 : [mnist_predict](./deep_learning/mnist_predict.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bomij33/ggmt/blob/main/deep_learning/mnist_predict.ipynb)
