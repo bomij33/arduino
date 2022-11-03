@@ -1,5 +1,4 @@
-# arduino
-Smart Farm
+# arduino Smart Farm
 <br><br>
 
 ## 1.mblock 설치
