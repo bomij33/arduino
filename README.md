@@ -12,15 +12,9 @@
 ## 2.아두이노 사이트
 [https://arduino.cc/en/software/](https://www.arduino.cc/en/software)
 <br>
-
-
-- mnist 학습  #1 : [mnist.ipynb](./deep_learning/mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/bomij33/ggmt/blob/main/deep_learning/mnist.ipynb)
-- mnist 평가  #2 : [mnist_predict](./deep_learning/mnist_predict.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bomij33/ggmt/blob/main/deep_learning/mnist_predict.ipynb)
-
+Arduino Web Editor
+Start coding online and save your sketches in the cloud. 
 <br><br>
 
-## 3.mnist code 전체
-- mnist 학습 & 평가 [mnist_all.ipynb](./deep_learning/mnist_all.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/bomij33/ggmt/blob/main/deep_learning/mnist_all.ipynb)
+
 
