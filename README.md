@@ -12,8 +12,9 @@
 [아두이노 호환 드라이브 설치](https://github.com/bomij33/arduino/blob/main/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%ED%98%B8%ED%99%98%EB%B3%B4%EB%93%9C%20%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84.zip)
 <br><br>
 
-## 3.부품조립 설명서
-[아두이노 스마트팜 부품조립 설명](https://github.com/bomij33/arduino/blob/main/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C_%EB%B6%80%ED%92%88%EC%A1%B0%EB%A6%BD%EC%84%A4%EB%AA%85%EC%84%9C.pdf)
+## 3.부품조립 설명
+[아두이노 스마트팜 부품조립 설명]
+![smartFarm조립](https://user-images.githubusercontent.com/63789657/200104268-6a6b857b-c18b-4c75-97ca-d9f52caa7b1c.PNG)
 <br><br>
 
 ## 4.아두이노 설치
