@@ -16,7 +16,11 @@
 [아두이노 스마트팜 부품조립 설명](https://github.com/bomij33/arduino/blob/main/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C_%EB%B6%80%ED%92%88%EC%A1%B0%EB%A6%BD%EC%84%A4%EB%AA%85%EC%84%9C.pdf)
 <br><br>
 
-## 4.아두이노 사이트
+## 4.아두이노 설치
+[아두이노 설치](https://drive.google.com/file/d/1QttBNAE64LmVZmigzWtx3XysQpZ8uzb2/view?usp=share_link)
+<br><br>
+
+## 5. 아두이노 사이트
 [https://arduino.cc/en/software/](https://www.arduino.cc/en/software)
 <br>
 Arduino Web Editor
