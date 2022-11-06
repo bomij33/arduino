@@ -20,7 +20,7 @@
 <br><br>
 
 ## 4.아두이노 호환 드라이브 설치
-mBlock 설치 시, 자동 설치되며, 스캐치만 설치할 경우에 드라이브 설치 필요.
+mBlock 설치 시, 자동 설치되며, 스캐치만 설치할 경우에 드라이브 설치 필요. <br>
 [아두이노 호환 드라이브 설치](https://github.com/bomij33/arduino/blob/main/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%ED%98%B8%ED%99%98%EB%B3%B4%EB%93%9C%20%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84.zip)
 <br><br>
 
